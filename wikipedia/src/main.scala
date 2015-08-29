@@ -1,0 +1,8 @@
+
+
+/**
+ * @author peter
+ */
+object main {
+  
+}
